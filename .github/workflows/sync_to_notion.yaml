@@ -29,7 +29,7 @@ jobs:
         shell: bash
         run: |
             git config --global user.email "victoria.schelkun@gmail.com"
-            git config --global user.name "Paperpile to Notion"
+            git config --global user.name "vschelkun"
             git add .
             git commit -am 'Update archive.'
         
